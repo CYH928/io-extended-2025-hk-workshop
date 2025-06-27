@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/feb86924-8adc-4ec0-b0a1-91f1296a11e0)# Google I/O Extended 2025 HK Workshop
+# Google I/O Extended 2025 HK Workshop
 
 
 ## Get the event GCP credits
